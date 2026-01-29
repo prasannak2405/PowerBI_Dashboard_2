@@ -60,7 +60,8 @@ The goal is to understand patterns, frequencies, and contributing factors throug
 ---
 
 ## 📸 Screenshots
-
+### Snapshot of DAX expression used for Measures and Calculated Column
+![image alt](https://github.com/prasannak2405/PowerBI_Dashboard_2/blob/290894f3fd95f25f548f026185b09965be5c9d7a/images/PA_M%26CC.png)
 
 ---
 
